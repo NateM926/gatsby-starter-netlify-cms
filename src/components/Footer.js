@@ -4,7 +4,7 @@ import { Link } from 'gatsby'
 import logo from '../img/white.logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
-import twitter from '../img/social/twitter.svg'
+// import twitter from '../img/social/twitter.svg'
 import vimeo from '../img/social/vimeo.svg'
 
 const Footer = class extends React.Component {
@@ -39,11 +39,11 @@ const Footer = class extends React.Component {
                         Products
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
-                    </li>
+                    </li> */}
                     <li>
                       <a
                         className="navbar-item"
@@ -81,15 +81,15 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="twitter" href="https://twitter.com">
+                {/* <a title="twitter" href="https://twitter.com">
                   <img
                     className="fas fa-lg"
                     src={twitter}
                     alt="Twitter"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>
-                <a title="instagram" href="https://instagram.com">
+                </a> */}
+                <a title="instagram" href="https://instagram.com/alittlecreative.me/">
                   <img
                     src={instagram}
                     alt="Instagram"

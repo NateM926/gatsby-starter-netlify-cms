@@ -2,10 +2,10 @@
 templateKey: 'product-page'
 path: /products
 title: Our Paints
-image: /img/jumbotron.jpg
+image: /img/ren-profile.jpg
 heading: Professional Hand-made Polish watercolors
 description: >-
-  Come browse the selection at my [etsy store](https://www.etsy.com/shop/alittlecreativeme)
+  Come browse the selection at my etsy store!
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -14,7 +14,7 @@ intro:
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of paint beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
-        availability.
+        availability. [etsy store](https://www.etsy.com/shop/alittlecreativeme)
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and

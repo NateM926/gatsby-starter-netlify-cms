@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great paints with a conscience
 image: /img/home-jumbotron.jpg
-heading: Great paint with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Renesans Watercolors
+subheading: Professional Hand-made Polish watercolors.
 mainpitch:
   title: Why Renesans
   description: >

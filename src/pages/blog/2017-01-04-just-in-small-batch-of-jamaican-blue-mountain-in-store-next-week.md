@@ -1,33 +1,53 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'Swatching Renesans Watercolors: tips and template'
+date: 2018-11-21T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  This is part 1 of my process of swatching Renesans Intense tube watercolor paints. Linked below are things mentioned in this video. 
+
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - youtube
+  - artists
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+(embed yt video)
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDk0wAN_hAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## A little history
+This is part 1 of my process of swatching Renesans Intense tube watercolor paints.   Linked below are things mentioned in this video. 
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+## Webcam used:
+Logitech C930e
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+https://www.amazon.com/gp/product/B00CRJWW2G/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+## My stream with The Frugal Crafter:
+https://youtu.be/95B2hlgvBfA
 
-## What you need to know before trying
+## The laminate sleeve I created was inspired by this video:
+Scrapcraftastic: DIY Traveler's Notebook Setup Series: Create a Reusable Laminated Dashboard w/ Laminate Pouches
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+https://youtu.be/Um_yW9VwYEY
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+## Pentel Graph Gear 1000 Automatic Drafting Pencil:
+https://www.amazon.com/gp/product/B005GSL762/ref=oh_aui_search_detailpage?ie=UTF8&th=1
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+## Muji White porcelain tray:
+https://www.muji.us/store/4934761390697.html
+
+## The Frugal Crafter’s video:  Should you use white watercolor paint?
+https://youtu.be/fk4wHDsbl58
+
+## Creations Cee Cee channel:  
+https://www.youtube.com/user/creationsceecee/
+
+## Brush rest soap dish:
+https://www.bedbathandbeyond.com/store/product/spectrum-dino-soap-saver/1010318440
+
+## Dr. Oto Kano video:  Don't Use Aureolin in Your Painting!! Lightfastness Testing Aureolin
+https://youtu.be/jIJ_OHlkiGY
+
+## Eve Bolt’s stream in which she mentions color temperatures:  
+Caturday Livestream! - Opening a surprise parcel from Jacqueline! 
+
+https://youtu.be/znYgxZsnoqw

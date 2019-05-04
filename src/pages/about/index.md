@@ -1,19 +1,16 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About
 ---
-### Shade-grown Paints
-Paint is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade paint farms provides habitat for a great number of migratory and resident species.
 
-### Single origin
-Single-origin paints are paints grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the paint is then usually the place it was grown to whatever degree available.
+- image: /img/ren-topdown.jpg
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Heading 1
+Welcome to a little creative! I am a watercolor artist who loves to travel and paint. Having a bit of an addiction to art supplies, I have tried watercolors from Holland, France, Germany, United States, Japan, Korea, England and Russia. I have even tried making my own watercolors by hand. After traveling to Poland with my husband, I visited an art supply shop in Krakow, and came across Renesans watercolor paints. I knew that these watercolor paints were special, and I began importing them from Eastern Europe. They behave in a similar way to other handmade watercolors and have an unmatched depth of color. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some paint roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Heading 2
+The half pan range consists of 54 colours. These professional dry watercolor pans are made according to an old European recipe using gum arabic and carefully ground pigment, with acacia honey as a binder. These are produced almost entirely by hand to obtain the highest quality and purity. The watercolors are made from organic and inorganic pigments, including genuine Polish cadmium and cobalt. The product offers good solubility and high resistance to light: the watercolors are produced by hand and naturally dried.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing paint to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our paint is grown. You can see the communities grow and learn more about paint farming on our blog.
+### Heading 3
+The Intense range of extra-fine watercolors comes in tubes which include 70 colors; 50 of which were produced using only one pigment. These mix cleanly and beautifully making them excellent for professional use. These have the highest standards of stability, purity, solubility, and lightfastness. The Renesans company uses only the best raw materials. The honey used in the production is not only a preservative, it provides incomparable smoothness of paint. In addition to honey is the excellent quality of gum Arabic from Kordofan– region constituting the central and southern area of Sudan. The highest standards of artistic pigments ensure the highest lightfastness. These are large 15ml tubes. These are sold according to 3 grades depending on the pigment used.

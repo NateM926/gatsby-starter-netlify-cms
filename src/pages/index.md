@@ -3,7 +3,7 @@ templateKey: index-page
 title: Great paints with a conscience
 image: /img/home-jumbotron.jpg
 heading: Renesans Watercolors
-subheading: Professional Hand-made Polish watercolors.
+subheading: Professional Hand-made Polish watercolors
 mainpitch:
   title: Why Renesans
   description: >

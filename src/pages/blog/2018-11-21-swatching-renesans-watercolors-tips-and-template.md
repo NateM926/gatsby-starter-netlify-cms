@@ -10,16 +10,10 @@ tags:
   - artists
 ---
 
-(embed yt video)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDk0wAN_hAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-This is part 1 of my process of swatching Renesans Intense tube watercolor paints.   Linked below are things mentioned in this video. 
-
 ## Webcam used:
-Logitech C930e
-
-https://www.amazon.com/gp/product/B00CRJWW2G/ref=oh_aui_search_detailpage?ie=UTF8&psc=1
+Logitech C930e - [Amazon Link](https://www.amazon.com/gp/product/B00CRJWW2G/ref=oh_aui_search_detailpage?ie=UTF8&psc=1)
 
 ## My stream with The Frugal Crafter:
 https://youtu.be/95B2hlgvBfA

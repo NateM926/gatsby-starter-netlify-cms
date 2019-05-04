@@ -3,12 +3,9 @@ templateKey: 'product-page'
 path: /products
 title: Our Paints
 image: /img/jumbotron.jpg
-heading: Great paint with a conscience
+heading: Professional Hand-made Polish watercolors
 description: >-
-  Renesans is the ultimate spot for paint lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take paint production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Come browse the selection at my [etsy store](https://www.etsy.com/shop/alittlecreativeme)
 intro:
   blurbs:
     - image: /img/coffee.png
